@@ -2,14 +2,14 @@
 
 **How to import this Project :**
 
-Method I:
+**Method I:**
 1. Download Zip from https://github.com/tusharseth1990/ApplicationCacheProject and extract the same into one folder 
 2. In eclipse >> File >> Open Project from File System 
 3. click Directory to select Import Source Path and select the folder ApplicationCache
 4. Next Finish
 
 
-Method II:
+**Method II:**
 
 1. Go to Eclipse 
 2. File >> Import >> Git >> Projects from Git(with smart Import)
