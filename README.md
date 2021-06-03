@@ -19,6 +19,8 @@ operation.
 3. The API for Cache should be well designed.
 4. Use Design Patterns as appropriate
 5. You can assume a DBStore interface/mock for fetching any data from DB
+
+
 General Guidelines:
 1. Code should be answered using Java only, preferably Java 5.0 or above.
 2. Program should not be dependent on third party libraries.
